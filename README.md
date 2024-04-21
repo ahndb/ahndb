@@ -6,7 +6,7 @@
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahndb&theme=graywhite_icons=true) -->
 
-<a href="https://www.instagram.com/ahnd.b"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<!-- <a href="https://www.instagram.com/ahnd.b"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> -->
 
 
 <h4 align="center"> BACKEND </h4>
