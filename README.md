@@ -13,7 +13,7 @@
   ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?&logo=javascript&logoColor=black) 
   ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
-
+  
   ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black) 
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=green">
 
@@ -22,9 +22,7 @@
   ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=orange)
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=black)
 
-  ![Spring](https://img.shields.io/badge/Spring-F05032?style=flat&logo=Spring&logoColor=orange)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=orange)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=orange)
+
   
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=blue">
   
