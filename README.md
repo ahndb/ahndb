@@ -15,10 +15,10 @@
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
   ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black) 
 
-  ![MySQL]("https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=bluegrey")
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=bluegrey)
   
-  ![Git]("https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=orange")
-  ![GitHub]("https://img.shields.io/badge/GitHub-#181717?style=flat&logo=GitHub&logoColor=black")
+  ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=orange)
+  ![GitHub](https://img.shields.io/badge/GitHub-#181717?style=flat&logo=GitHub&logoColor=black)
 
   ![Git]("https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=orange")
   ![Git]("https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=orange")
