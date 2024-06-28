@@ -20,16 +20,14 @@
   ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=orange)
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=black)
 
-  ![Git]("https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=orange")
-  ![Git]("https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=orange")
-  ![Git]("https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=orange")
-  ![Git]("https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=orange")
-  ![Git]("https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=orange")
+  ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=orange)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=orange)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=orange)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=orange)
+  ![Git](https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=blue)
 
 
   
-<img src="https://img.shields.io/badge/GitHub-#181717?style=flat-square&logo=GitHub&logoColor=black">
-<img src="https://img.shields.io/badge/MySQL-#4479A1?style=flat-square&logo=MySQL&logoColor=색상">
 <img src="https://img.shields.io/badge/PyCharm-색상코드?style=flat-square&logo=PyCharm&logoColor=색상">
 <img src="https://img.shields.io/badge/Spring-색상코드?style=flat-square&logo=Spring&logoColor=색상">
 <img src="https://img.shields.io/badge/Typescript-색상코드?style=flat-square&logo=Typescript&logoColor=색상">
