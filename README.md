@@ -2,7 +2,7 @@
   
   # Portfolio & Blog
 
-  [![Portfolio Badge](https://img.shields.io/badge/Portfolio-FF4785?style=flat&logo=campaignmonitor&logoColor=white)](https://portfolio-website-hyemin.netlify.app/)
+  [![Portfolio Badge](https://img.shields.io/badge/Portfolio-FF4785?style=flat&logo=campaignmonitor&logoColor=white)]([https://portfolio-website-hyemin.netlify.app](https://alike-bonsai-ada.notion.site/AHN-SANGHYUN-bf2916bdc88b46bf9a87f289daadb04f?pvs=4)/)
   [![Blog Badge](https://img.shields.io/badge/Velog-20C997?&logo=velog&logoColor=white)](https://velog.io/@kimhamney/posts)
 
   # Tech Stacks
