@@ -31,7 +31,6 @@
 <img src="https://img.shields.io/badge/PyCharm-색상코드?style=flat-square&logo=PyCharm&logoColor=색상">
 <img src="https://img.shields.io/badge/Spring-색상코드?style=flat-square&logo=Spring&logoColor=색상">
 <img src="https://img.shields.io/badge/Typescript-색상코드?style=flat-square&logo=Typescript&logoColor=색상">
-<img src="https://img.shields.io/badge/Visual Studio Code-색상코드?style=flat-square&logo=Visual Studio Code&logoColor=색상">
 
                 
 
