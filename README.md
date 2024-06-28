@@ -2,7 +2,7 @@
   
   # Portfolio & Blog
 
-  [![Portfolio Badge](https://img.shields.io/badge/Portfolio-FF4785?style=flat&logo=campaignmonitor&logoColor=white)]([https://portfolio-website-hyemin.netlify.app](https://alike-bonsai-ada.notion.site/AHN-SANGHYUN-bf2916bdc88b46bf9a87f289daadb04f?pvs=4)/)
+  [![Portfolio Badge](https://img.shields.io/badge/Portfolio-FF4785?style=flat&logo=campaignmonitor&logoColor=white)](https://portfolio-website-hyemin.netlify.app/)
   [![Blog Badge](https://img.shields.io/badge/Velog-20C997?&logo=velog&logoColor=white)](https://velog.io/@kimhamney/posts)
 
   # Tech Stacks
@@ -26,10 +26,10 @@
   
   # GitHub Stats
   
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kimhamney&theme=github)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kimhamney&theme=github)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kimhamney&theme=github)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahndb&theme=github)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahndb&theme=github)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahndb&theme=github)
 
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimhamney%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fahndb%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
