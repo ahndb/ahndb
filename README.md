@@ -14,18 +14,26 @@
   ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
   ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black) 
+  
+  ![Git]("https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=orange")
+  ![Git]("https://img.shields.io/badge/GitHub-#181717?style=flat&logo=GitHub&logoColor=black")
+  ![Git]("https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=orange")
+  ![Git]("https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=orange")
+  ![Git]("https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=orange")
+  ![Git]("https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=orange")
+  ![Git]("https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=orange")
+  ![Git]("https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=orange")
+
 
   
-<img src="https://img.shields.io/badge/AmazonAWS-색상코드?style=flat-square&logo=AmazonAWS&logoColor=색상">
-  <img src="https://img.shields.io/badge/Git-색상코드?style=flat-square&logo=Git&logoColor=색상">
-  <img src="https://img.shields.io/badge/GitHub-색상코드?style=flat-square&logo=GitHub&logoColor=색상">
-    <img src="https://img.shields.io/badge/MySQL-색상코드?style=flat-square&logo=MySQL&logoColor=색상">
-      <img src="https://img.shields.io/badge/Postman-색상코드?style=flat-square&logo=Postman&logoColor=색상">
-        <img src="https://img.shields.io/badge/PyCharm-색상코드?style=flat-square&logo=PyCharm&logoColor=색상">
-          <img src="https://img.shields.io/badge/Spring-색상코드?style=flat-square&logo=Spring&logoColor=색상">
-            <img src="https://img.shields.io/badge/Typescript-색상코드?style=flat-square&logo=Typescript&logoColor=색상">
-              <img src="https://img.shields.io/badge/Visual Studio Code-색상코드?style=flat-square&logo=Visual Studio Code&logoColor=색상">
-                <img src="https://img.shields.io/badge/GitHub-색상코드?style=flat-square&logo=GitHub&logoColor=색상">
+<img src="https://img.shields.io/badge/GitHub-#181717?style=flat-square&logo=GitHub&logoColor=black">
+<img src="https://img.shields.io/badge/MySQL-#4479A1?style=flat-square&logo=MySQL&logoColor=색상">
+<img src="https://img.shields.io/badge/Postman-색상코드?style=flat-square&logo=Postman&logoColor=색상">
+<img src="https://img.shields.io/badge/PyCharm-색상코드?style=flat-square&logo=PyCharm&logoColor=색상">
+<img src="https://img.shields.io/badge/Spring-색상코드?style=flat-square&logo=Spring&logoColor=색상">
+<img src="https://img.shields.io/badge/Typescript-색상코드?style=flat-square&logo=Typescript&logoColor=색상">
+<img src="https://img.shields.io/badge/Visual Studio Code-색상코드?style=flat-square&logo=Visual Studio Code&logoColor=색상">
+
                 
 
   
